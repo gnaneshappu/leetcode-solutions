@@ -1,0 +1,5 @@
+# Compiled C programs
+*.out
+*.exe
+arrays-strings/two-sum
+arrays-strings/reverse-array
